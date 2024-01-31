@@ -7,8 +7,8 @@ import { PiShoppingCartSimpleBold } from "react-icons/pi";
 import { FaRegEye } from "react-icons/fa";
 import { addItem } from "../../utils/store/cartSlice";
 import { jweldata } from "../../utils/data/JwellData";
-import { MdFavoriteBorder } from "react-icons/md";
-import { FaCartShopping } from "react-icons/fa6";
+// import { MdFavoriteBorder } from "react-icons/md";
+// import { FaCartShopping } from "react-icons/fa6";
 
 function Product() {
   const dispach = useDispatch();
