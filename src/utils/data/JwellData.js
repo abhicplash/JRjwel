@@ -55,29 +55,35 @@ import bracelet11 from "../../../src/Assets/Images/Bracelets/Bracelet11.png";
 export var jweldata = [
   {
     id: 1,
+    price: 10,
     name: "Diamond Richcut",
     image: EringImg1,
     quantity: 1
   },
   {
     id: 2,
+    price: 10,
+
     name: "Diamond Richcut",
     image: EringImg2,
     quantity: 1
   },
   {
+    price: 10,
     id: 3,
     name: "Diamond Richcut",
     image: EringImg3,
     quantity: 1
   },
   {
+    price: 10,
     id: 4,
     name: "Diamond Richcut",
     image: EringImg4,
     quantity: 1
   },
   {
+    price: 10,
     id: 5,
     name: "Diamond Richcut",
     image: EringImg5,
@@ -86,64 +92,75 @@ export var jweldata = [
   {
     id: 6,
     name: "Diamond Richcut",
+    price: 10,
     image: EringImg6,
     quantity: 1
   },
   {
     id: 7,
     name: "Diamond Richcut",
+    price: 10,
     image: EringImg7,
     quantity: 1
   },
   {
     id: 8,
     name: "Diamond Richcut",
+    price: 10,
     image: EringImg8,
     quantity: 1
   },
   {
     id: 10,
+    price: 10,
     name: "Diamond Richcut",
     image: EringImg9,
     quantity: 1
   },
   {
     id: 9,
+    price: 10,
     name: "Diamond Richcut",
     image: EringImg10,
     quantity: 1
   },
   {
     id: 11,
+    price: 10,
     name: "Diamond Richcut",
     image: EringImg11,
     quantity: 1
   },
   {
     id: 12,
+    price: 10,
     name: "Diamond Richcut",
     image: EringImg12,
     quantity: 1
   },
   {
     id: 13,
+    price: 10,
     name: "Diamond Richcut",
     image: EringImg13,
     quantity: 1
   },
   {
     id: 14,
+    price: 10,
     name: "Diamond Richcut",
     image: EringImg14,
     quantity: 1
   },
   {
     id: 15,
+    price: 10,
     name: "Diamond Richcut",
     image: EringImg15,
     quantity: 1
   },
   {
+    price: 10,
     id: 16,
     name: "Diamond Richcut",
     image: EringImg16,
@@ -151,12 +168,14 @@ export var jweldata = [
   },
   {
     id: 17,
+    price: 10,
     name: "necklace",
     image: necklace1,
     quantity: 1
   },
   {
     id: 18,
+    price: 10,
     name: "necklace",
     image: necklace2,
     quantity: 1
@@ -164,71 +183,83 @@ export var jweldata = [
   {
     id: 19,
     name: "necklace",
+    price: 10,
     image: necklace3,
     quantity: 1
   },
   {
     id: 20,
+    price: 10,
     name: "necklace",
     image: necklace4,
     quantity: 1
   },
   {
     id: 21,
+    price: 10,
     name: "necklace",
     image: necklace5,
     quantity: 1
   },
   {
     id: 22,
+    price: 10,
     name: "necklace",
     image: necklace6,
     quantity: 1
   },
   {
     id: 23,
+    price: 10,
     name: "necklace",
     image: necklace7,
     quantity: 1
   },
   {
     id: 24,
+    price: 10,
     name: "necklace",
     image: necklace8,
     quantity: 1
   },
   {
     id: 25,
+    price: 10,
     name: "necklace",
     image: necklace9,
     quantity: 1
   },
   {
     id: 26,
+    price: 10,
     name: "necklace",
     image: necklace10,
     quantity: 1
   },
   {
     id: 27,
+    price: 10,
     name: "necklace",
     image: necklace11,
     quantity: 1
   },
   {
     id: 28,
+    price: 10,
     name: "necklace",
     image: necklace12,
     quantity: 1
   },
   {
     id: 29,
+    price: 10,
     name: "Ring",
     image: ring1,
     quantity: 1
   },
   {
     id: 30,
+    price: 10,
     name: "Ring",
     image: ring2,
     quantity: 1
@@ -236,10 +267,12 @@ export var jweldata = [
   {
     id: 31,
     name: "Ring",
+    price: 10,
     image: ring3,
     quantity: 1
   },
   {
+    price: 10,
     id: 32,
     name: "Ring",
     image: ring4,
@@ -248,35 +281,41 @@ export var jweldata = [
   {
     id: 33,
     name: "Ring",
+    price: 10,
     image: ring5,
     quantity: 1
   },
   {
     id: 34,
+    price: 10,
     name: "Ring",
     image: ring6,
     quantity: 1
   },
   {
     id: 35,
+    price: 10,
     name: "Ring",
     image: ring7,
     quantity: 1
   },
   {
     id: 36,
+    price: 10,
     name: "Ring",
     image: ring8,
     quantity: 1
   },
   {
     id: 37,
+    price: 10,
     name: "Ring",
     image: ring9,
     quantity: 1
   },
   {
     id: 38,
+    price: 10,
     name: "Ring",
     image: ring10,
     quantity: 1
@@ -284,89 +323,104 @@ export var jweldata = [
   {
     id: 39,
     name: "Ring",
+    price: 10,
     image: ring11,
     quantity: 1
   },
   {
     id: 40,
     name: "Ring",
+    price: 10,
     image: ring12,
     quantity: 1
   },
   {
     id: 41,
     name: "Ring",
+    price: 10,
     image: ring13,
     quantity: 1
   },
   {
     id: 42,
     name: "Ring",
+    price: 10,
     image: ring14,
     quantity: 1
   },
   {
     id: 43,
     name: "Bracelet",
+    price: 10,
     image: bracelet1,
     quantity: 1
   },
   {
     id: 44,
     name: "Bracelet",
+    price: 10,
     image: bracelet2,
     quantity: 1
   },
   {
     id: 45,
     name: "Bracelet",
+    price: 10,
     image: bracelet3,
     quantity: 1
   },
   {
     id: 46,
     name: "Bracelet",
+    price: 10,
     image: bracelet4,
     quantity: 1
   },
   {
     id: 47,
     name: "Bracelet",
+    price: 10,
     image: bracelet5,
     quantity: 1
   },
   {
     id: 48,
     name: "Bracelet",
+    price: 10,
     image: bracelet6,
     quantity: 1
   },
   {
     id: 49,
     name: "Bracelet",
+    price: 10,
     image: bracelet7,
     quantity: 1
   },
   {
     id: 50,
     name: "Bracelet",
+    price: 10,
     image: bracelet8,
     quantity: 1
   },
   {
     id: 51,
     name: "Bracelet",
+    price: 10,
     image: bracelet9,
     quantity: 1
   },
   {
     id: 52,
+    price: 10,
     name: "Bracelet",
     image: bracelet10,
     quantity: 1
   },
   {
     id: 53,
+    price: 10,
     name: "Bracelet",
     image: bracelet11,
     quantity: 1

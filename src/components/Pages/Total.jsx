@@ -20,7 +20,7 @@ const Total = () => {
       </div>
       <div className="flex justify-between">
         <span className="font-semibold text-sm">Total Price</span>
-        <span className="font-bold text-sm">{"$" + totalPrice.toFixed(2)}</span>
+        <span className="font-bold text-sm">{"$" + totalPrice}</span>
       </div>
       <div className="flex justify-center text-xs items-center text-white font-bold">
         <button className="h-8 bg-blue-600 px-3 uppercase text-center rounded-md shadow-md">

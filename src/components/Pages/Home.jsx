@@ -1,14 +1,13 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
+import React from "react";
+import { Link } from "react-router-dom";
+import Layout from "../Layout/Layout";
 
 function Home() {
-    return (
-        <div>
-            <Link to={"/product"}>
-                product
-            </Link>
-        </div>
-    )
+  return (
+    <Layout>
+      <div className="w-full h-[100vh] bg-bannergold bg-center bg-cover"></div>
+    </Layout>
+  );
 }
 
-export default Home
+export default Home;
