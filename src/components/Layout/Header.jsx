@@ -24,7 +24,9 @@ function Header() {
         </h1>
       </div>
       <ul className="hidden sm:flex relative list-none font-bold   gap-20 font-mono bg-[#121212] items-center">
-        <h1 className="hover:text-[#b7884a] cursor-pointer">home</h1>
+      <Link to={"/"}>
+            <h1 className="hover:text-[#b7884a] cursor-pointer">home</h1>
+          </Link>
         <li className="hover:text-[#b7884a]">About</li>
         <li className="hover:text-[#b7884a] cursor-pointer">contact</li>
         <li className="flex items-center cursor-pointer hover:bg-[#ab8e69] bg-[#b7884a] py-1 justify-center text-[#050505] px-5">
@@ -33,7 +35,9 @@ function Header() {
       </ul>
       {view ? null : (
         <ul className="sm:hidden absolute list-none font-bold left-0 w-[100vw] top-[9.5rem]   gap-10 font-mono bg-[#121212] flex flex-col justify-center py-5  items-center">
-          <h1 className="hover:text-[#b7884a] cursor-pointer">home</h1>
+          <Link to={"/"}>
+            <h1 className="hover:text-[#b7884a] cursor-pointer">home</h1>
+          </Link>
           <li className="hover:text-[#b7884a]">About</li>
           <li className="hover:text-[#b7884a] cursor-pointer">contact</li>
           <li className="flex items-center cursor-pointer hover:bg-[#ab8e69] bg-[#b7884a] py-1 justify-center text-[#050505] px-5">
